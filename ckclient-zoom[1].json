@@ -1,0 +1,12 @@
+{
+    "Transport": "direct",
+    "ProxyMethod": "openvpn",
+    "EncryptionMethod": "plain",
+    "UID": "kHZVBiacn9USCHES2mH+vA==",
+    "PublicKey": "n7vBfM0sry7fcIfeHypenJPE6fTYheAxswP847fkLzU=",
+    "ServerName": "www.netflix.com",
+    "NumConn": 16,
+    "BrowserSig": "chrome",
+    "StreamTimeout": 300,
+    "KeepAlive": 120
+}
